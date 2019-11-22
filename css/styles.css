@@ -23,10 +23,11 @@ body {
 
 .lion {
   float: right;
+  width: 570px;
+  border: 15px solid green;
+  padding: 20px;
+  margin: 10px
 }
-
-
-
 
 
 .header h1 {
@@ -95,8 +96,26 @@ body {
 }
 
 
-.fakeimg {
-  background-color: #aaa;
+.filler {
+  background-color: rgba(170, 170, 170, 0.438);
+  width: 100%;
+  padding: 20px;
+}
+
+.filler1 {
+  background-color: rgba(0, 0, 0);
+  width: 100%;
+  padding: 20px;
+}
+
+.filler2 {
+  background-color: rgba(255, 0, 0);
+  width: 100%;
+  padding: 20px;
+}
+
+.filler3 {
+  background-color: rgba(0, 128, 0);
   width: 100%;
   padding: 20px;
 }
