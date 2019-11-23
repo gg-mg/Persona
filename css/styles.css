@@ -91,7 +91,7 @@ body {
 .main {
   -ms-flex: 70%;
   flex: 70%;
-  background-color: white;
+  background-color: rgba(0, 140, 255, 0.336);
   padding: 20px;
 }
 
